@@ -1,0 +1,100 @@
+﻿Year_Month,Location_ID,ProductID,Product,Sentiment,Class
+2019/3,"Belgium, Brussels",product-20700833-fc84-4340-9a59-669fe6acc94b,Antoine,92,POS
+2019/3,"Belgium, Brussels",product-124ef52a-c7c3-48af-b315-33a14b2f6e1d,François,87,POS
+2019/3,"Belgium, Brussels",product-a19d1434-d5f2-4a2a-9fe0-7d70f63e391e,Denis,83,NEU
+2019/3,"Belgium, Brussels",product-9f6a916a-271c-4d78-9e5f-f802bbcf6548,Adele,87,POS
+2019/3,"Belgium, Brussels",product-f709c12a-ffe5-48b1-a3d2-f247acf8e176,Danielle,90,POS
+2019/3,"Belgium, Brussels",product-0a97c64c-582b-41a9-b367-2a4e081cf3d5,Estelle,83,NEU
+2019/3,"Belgium, Brussels",product-642f72ba-c5d6-4126-be0f-a22fe4e9fbb6,Bella,88,POS
+2019/3,"Belgium, Brussels",product-b7c06d0a-977d-497b-ae3e-95b58985cafd,Amélie,88,POS
+2019/3,"Belgium, Brussels",product-98f22154-ee97-4ef8-be84-7283cec0ebad,Bridgette,85,POS
+2019/3,"Belgium, Brussels",product-f7e07591-2598-4615-82c2-34f6ad248e50,Eloise,87,POS
+2019/3,"Belgium, Brussels",product-fa4a41fc-4a31-44b5-953f-8e2a45b43673,Cecile,83,NEU
+2019/3,"Belgium, Brussels",product-7bef3e02-033c-4259-93da-a25f4f7169be,Claudette,84,NEU
+2019/4,"Belgium, Brussels",product-20700833-fc84-4340-9a59-669fe6acc94b,Antoine,88,POS
+2019/4,"Belgium, Brussels",product-124ef52a-c7c3-48af-b315-33a14b2f6e1d,François,92,POS
+2019/4,"Belgium, Brussels",product-a19d1434-d5f2-4a2a-9fe0-7d70f63e391e,Denis,89,POS
+2019/4,"Belgium, Brussels",product-9f6a916a-271c-4d78-9e5f-f802bbcf6548,Adele,92,POS
+2019/4,"Belgium, Brussels",product-f709c12a-ffe5-48b1-a3d2-f247acf8e176,Danielle,83,NEU
+2019/4,"Belgium, Brussels",product-0a97c64c-582b-41a9-b367-2a4e081cf3d5,Estelle,86,POS
+2019/4,"Belgium, Brussels",product-642f72ba-c5d6-4126-be0f-a22fe4e9fbb6,Bella,89,POS
+2020/12,"Portugal, Lisbon",product-7bef3e02-033c-4259-93da-a25f4f7169be,Claudette,92,POS
+2021/1,"Portugal, Lisbon",product-20700833-fc84-4340-9a59-669fe6acc94b,Antoine,86,POS
+2021/1,"Portugal, Lisbon",product-124ef52a-c7c3-48af-b315-33a14b2f6e1d,François,86,POS
+2021/1,"Portugal, Lisbon",product-a19d1434-d5f2-4a2a-9fe0-7d70f63e391e,Denis,91,POS
+2021/1,"Portugal, Lisbon",product-9f6a916a-271c-4d78-9e5f-f802bbcf6548,Adele,90,POS
+2021/1,"Portugal, Lisbon",product-f709c12a-ffe5-48b1-a3d2-f247acf8e176,Danielle,87,POS
+2021/1,"Portugal, Lisbon",product-0a97c64c-582b-41a9-b367-2a4e081cf3d5,Estelle,90,POS
+2021/1,"Portugal, Lisbon",product-642f72ba-c5d6-4126-be0f-a22fe4e9fbb6,Bella,89,POS
+2021/1,"Portugal, Lisbon",product-b7c06d0a-977d-497b-ae3e-95b58985cafd,Amélie,92,POS
+2021/1,"Portugal, Lisbon",product-98f22154-ee97-4ef8-be84-7283cec0ebad,Bridgette,87,POS
+2021/1,"Portugal, Lisbon",product-f7e07591-2598-4615-82c2-34f6ad248e50,Eloise,88,POS
+2021/1,"Portugal, Lisbon",product-fa4a41fc-4a31-44b5-953f-8e2a45b43673,Cecile,86,POS
+2021/1,"Portugal, Lisbon",product-7bef3e02-033c-4259-93da-a25f4f7169be,Claudette,84,NEU
+2021/2,"Portugal, Lisbon",product-20700833-fc84-4340-9a59-669fe6acc94b,Antoine,87,POS
+2021/2,"Portugal, Lisbon",product-124ef52a-c7c3-48af-b315-33a14b2f6e1d,François,88,POS
+2021/2,"Portugal, Lisbon",product-a19d1434-d5f2-4a2a-9fe0-7d70f63e391e,Denis,86,POS
+2021/2,"Portugal, Lisbon",product-9f6a916a-271c-4d78-9e5f-f802bbcf6548,Adele,87,POS
+2021/2,"Portugal, Lisbon",product-f709c12a-ffe5-48b1-a3d2-f247acf8e176,Danielle,86,POS
+2021/2,"Portugal, Lisbon",product-0a97c64c-582b-41a9-b367-2a4e081cf3d5,Estelle,85,POS
+2021/2,"Portugal, Lisbon",product-642f72ba-c5d6-4126-be0f-a22fe4e9fbb6,Bella,92,POS
+2018/4,"United Kingdom, London",product-124ef52a-c7c3-48af-b315-33a14b2f6e1d,François,88,POS
+2018/4,"United Kingdom, London",product-a19d1434-d5f2-4a2a-9fe0-7d70f63e391e,Denis,85,POS
+2018/4,"United Kingdom, London",product-9f6a916a-271c-4d78-9e5f-f802bbcf6548,Adele,92,POS
+2018/4,"United Kingdom, London",product-f709c12a-ffe5-48b1-a3d2-f247acf8e176,Danielle,87,POS
+2018/4,"United Kingdom, London",product-0a97c64c-582b-41a9-b367-2a4e081cf3d5,Estelle,83,NEU
+2018/4,"United Kingdom, London",product-642f72ba-c5d6-4126-be0f-a22fe4e9fbb6,Bella,86,POS
+2018/4,"United Kingdom, London",product-b7c06d0a-977d-497b-ae3e-95b58985cafd,Amélie,87,POS
+2018/4,"United Kingdom, London",product-98f22154-ee97-4ef8-be84-7283cec0ebad,Bridgette,86,POS
+2018/4,"United Kingdom, London",product-f7e07591-2598-4615-82c2-34f6ad248e50,Eloise,88,POS
+2018/4,"United Kingdom, London",product-fa4a41fc-4a31-44b5-953f-8e2a45b43673,Cecile,86,POS
+2018/4,"United Kingdom, London",product-7bef3e02-033c-4259-93da-a25f4f7169be,Claudette,86,POS
+2018/5,"United Kingdom, London",product-20700833-fc84-4340-9a59-669fe6acc94b,Antoine,86,POS
+2018/5,"United Kingdom, London",product-124ef52a-c7c3-48af-b315-33a14b2f6e1d,François,89,POS
+2018/5,"United Kingdom, London",product-a19d1434-d5f2-4a2a-9fe0-7d70f63e391e,Denis,84,NEU
+2018/5,"United Kingdom, London",product-9f6a916a-271c-4d78-9e5f-f802bbcf6548,Adele,89,POS
+2018/5,"United Kingdom, London",product-f709c12a-ffe5-48b1-a3d2-f247acf8e176,Danielle,85,POS
+2018/5,"United Kingdom, London",product-0a97c64c-582b-41a9-b367-2a4e081cf3d5,Estelle,88,POS
+2018/5,"United Kingdom, London",product-642f72ba-c5d6-4126-be0f-a22fe4e9fbb6,Bella,88,POS
+2018/5,"United Kingdom, London",product-b7c06d0a-977d-497b-ae3e-95b58985cafd,Amélie,88,POS
+2018/5,"United Kingdom, London",product-98f22154-ee97-4ef8-be84-7283cec0ebad,Bridgette,90,POS
+2018/5,"United Kingdom, London",product-f7e07591-2598-4615-82c2-34f6ad248e50,Eloise,87,POS
+2018/5,"United Kingdom, London",product-fa4a41fc-4a31-44b5-953f-8e2a45b43673,Cecile,84,NEU
+2018/5,"United Kingdom, London",product-7bef3e02-033c-4259-93da-a25f4f7169be,Claudette,83,NEU
+2018/6,"United Kingdom, London",product-20700833-fc84-4340-9a59-669fe6acc94b,Antoine,90,POS
+2018/6,"United Kingdom, London",product-124ef52a-c7c3-48af-b315-33a14b2f6e1d,François,87,POS
+2018/6,"United Kingdom, London",product-a19d1434-d5f2-4a2a-9fe0-7d70f63e391e,Denis,90,POS
+2018/6,"United Kingdom, London",product-9f6a916a-271c-4d78-9e5f-f802bbcf6548,Adele,92,POS
+2018/6,"United Kingdom, London",product-f709c12a-ffe5-48b1-a3d2-f247acf8e176,Danielle,88,POS
+2018/6,"United Kingdom, London",product-0a97c64c-582b-41a9-b367-2a4e081cf3d5,Estelle,83,NEU
+2018/6,"United Kingdom, London",product-642f72ba-c5d6-4126-be0f-a22fe4e9fbb6,Bella,89,POS
+2020/12,"United States, San Diego",product-642f72ba-c5d6-4126-be0f-a22fe4e9fbb6,Bella,40,NEG
+2020/12,"United States, San Diego",product-b7c06d0a-977d-497b-ae3e-95b58985cafd,Amélie,48,NEG
+2020/12,"United States, San Diego",product-98f22154-ee97-4ef8-be84-7283cec0ebad,Bridgette,42,NEG
+2020/12,"United States, San Diego",product-f7e07591-2598-4615-82c2-34f6ad248e50,Eloise,42,NEG
+2020/12,"United States, San Diego",product-fa4a41fc-4a31-44b5-953f-8e2a45b43673,Cecile,49,NEG
+2020/12,"United States, San Diego",product-7bef3e02-033c-4259-93da-a25f4f7169be,Claudette,48,NEG
+2021/1,"United States, San Diego",product-20700833-fc84-4340-9a59-669fe6acc94b,Antoine,41,NEG
+2021/1,"United States, San Diego",product-124ef52a-c7c3-48af-b315-33a14b2f6e1d,François,41,NEG
+2021/1,"United States, San Diego",product-a19d1434-d5f2-4a2a-9fe0-7d70f63e391e,Denis,46,NEG
+2021/1,"United States, San Diego",product-9f6a916a-271c-4d78-9e5f-f802bbcf6548,Adele,40,NEG
+2021/1,"United States, San Diego",product-f709c12a-ffe5-48b1-a3d2-f247acf8e176,Danielle,40,NEG
+2021/1,"United States, San Diego",product-0a97c64c-582b-41a9-b367-2a4e081cf3d5,Estelle,47,NEG
+2021/1,"United States, San Diego",product-642f72ba-c5d6-4126-be0f-a22fe4e9fbb6,Bella,43,NEG
+2021/1,"United States, San Diego",product-b7c06d0a-977d-497b-ae3e-95b58985cafd,Amélie,44,NEG
+2021/1,"United States, San Diego",product-98f22154-ee97-4ef8-be84-7283cec0ebad,Bridgette,45,NEG
+2021/1,"United States, San Diego",product-f7e07591-2598-4615-82c2-34f6ad248e50,Eloise,41,NEG
+2021/1,"United States, San Diego",product-fa4a41fc-4a31-44b5-953f-8e2a45b43673,Cecile,41,NEG
+2021/1,"United States, San Diego",product-7bef3e02-033c-4259-93da-a25f4f7169be,Claudette,40,NEG
+2021/2,"United States, San Diego",product-20700833-fc84-4340-9a59-669fe6acc94b,Antoine,46,NEG
+2021/2,"United States, San Diego",product-124ef52a-c7c3-48af-b315-33a14b2f6e1d,François,45,NEG
+2021/2,"United States, San Diego",product-a19d1434-d5f2-4a2a-9fe0-7d70f63e391e,Denis,43,NEG
+2021/2,"United States, San Diego",product-9f6a916a-271c-4d78-9e5f-f802bbcf6548,Adele,49,NEG
+2021/2,"United States, San Diego",product-f709c12a-ffe5-48b1-a3d2-f247acf8e176,Danielle,49,NEG
+2021/2,"United States, San Diego",product-0a97c64c-582b-41a9-b367-2a4e081cf3d5,Estelle,44,NEG
+2021/2,"United States, San Diego",product-642f72ba-c5d6-4126-be0f-a22fe4e9fbb6,Bella,42,NEG
+2021/2,"United States, San Diego",product-b7c06d0a-977d-497b-ae3e-95b58985cafd,Amélie,49,NEG
+2021/2,"United States, San Diego",product-98f22154-ee97-4ef8-be84-7283cec0ebad,Bridgette,45,NEG
+2021/2,"United States, San Diego",product-f7e07591-2598-4615-82c2-34f6ad248e50,Eloise,44,NEG
+2021/2,"United States, San Diego",product-fa4a41fc-4a31-44b5-953f-8e2a45b43673,Cecile,43,NEG
+2021/2,"United States, San Diego",product-7bef3e02-033c-4259-93da-a25f4f7169be,Claudette,45,NEG

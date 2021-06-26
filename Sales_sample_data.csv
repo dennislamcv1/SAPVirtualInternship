@@ -1,0 +1,169 @@
+﻿OrderID,Date,Country,City,Latitude,Longtitude,ProductCategoryName,ProductID,Product,Quantity,Discount,Price,Status
+order-fd7c3c2a-f481-4d58-91b6-06a9e2de0724,2020/11/7,Denmark,Copenhagen,55.6786,12.5635,Platforms,product-b7c06d0a-977d-497b-ae3e-95b58985cafd,Amélie,7,2.65,40,COMPLETED
+order-74ff7daf-2d0a-4dae-b132-58a12fc42d24,2020/11/7,Denmark,Copenhagen,55.6786,12.5635,Stilettos,product-7bef3e02-033c-4259-93da-a25f4f7169be,Claudette,5,6.21,102.95,COMPLETED
+order-0587ebd4-4a63-45f8-8d86-a8d2e814a10a,2020/11/19,Denmark,Copenhagen,55.6786,12.5635,Platforms,product-98f22154-ee97-4ef8-be84-7283cec0ebad,Bridgette,2,0.58,39.95,COMPLETED
+order-bf7d5289-d4c1-4cca-b054-e4a4817eb8f8,2020/11/7,Denmark,Copenhagen,55.6786,12.5635,Platforms,product-642f72ba-c5d6-4126-be0f-a22fe4e9fbb6,Bella,10,1.7,46.93,COMPLETED
+order-1c0c517f-2d62-4278-940b-f8023b19a4e3,2020/11/15,Denmark,Copenhagen,55.6786,12.5635,Stilettos,product-fa4a41fc-4a31-44b5-953f-8e2a45b43673,Cecile,1,1.03,78.56,COMPLETED
+order-7c2413bf-34ef-468d-bc25-7aea183b2fd1,2020/11/1,Denmark,Copenhagen,55.6786,12.5635,Stilettos,product-fa4a41fc-4a31-44b5-953f-8e2a45b43673,Cecile,4,4.61,78.56,COMPLETED
+order-b0639802-c23d-49f7-81e5-65c576fd5d9b,2020/11/26,Denmark,Copenhagen,55.6786,12.5635,Flats,product-0a97c64c-582b-41a9-b367-2a4e081cf3d5,Estelle,7,4.53,45.61,COMPLETED
+order-0bea9af6-8791-4915-8ef5-2901dd70e3a2,2020/11/26,Denmark,Copenhagen,55.6786,12.5635,Brogues,product-a19d1434-d5f2-4a2a-9fe0-7d70f63e391e,Denis,4,3.56,58.95,COMPLETED
+order-29377f15-69ac-4b18-a968-632f848c066e,2020/11/13,Denmark,Copenhagen,55.6786,12.5635,Flats,product-9f6a916a-271c-4d78-9e5f-f802bbcf6548,Adele,10,1.82,35.9,COMPLETED
+order-fc3e5cf3-267e-49fa-af66-f9f86c341d1c,2020/11/9,Denmark,Copenhagen,55.6786,12.5635,Platforms,product-642f72ba-c5d6-4126-be0f-a22fe4e9fbb6,Bella,3,0.3,46.93,COMPLETED
+order-c9f13c1e-6907-46f4-925c-e8788fbdadef,2020/11/11,Denmark,Copenhagen,55.6786,12.5635,Stilettos,product-f7e07591-2598-4615-82c2-34f6ad248e50,Eloise,8,4.18,80.95,COMPLETED
+order-2520c1f6-b354-4162-a1bc-eb5a9923299c,2020/11/26,Denmark,Copenhagen,55.6786,12.5635,Flats,product-f709c12a-ffe5-48b1-a3d2-f247acf8e176,Danielle,5,0.5,36.46,COMPLETED
+order-725ff9a0-dae1-4cf3-a9a3-678bb8fa7af9,2020/11/16,Denmark,Copenhagen,55.6786,12.5635,Stilettos,product-7bef3e02-033c-4259-93da-a25f4f7169be,Claudette,9,8.42,102.95,COMPLETED
+order-f2efe036-f9ab-4cbe-ad54-6798947f95bb,2020/11/28,Denmark,Copenhagen,55.6786,12.5635,Platforms,product-b7c06d0a-977d-497b-ae3e-95b58985cafd,Amélie,3,0.62,40,COMPLETED
+order-bd9985f8-50d5-4111-acce-c055a900e2ac,2020/11/8,Denmark,Copenhagen,55.6786,12.5635,Stilettos,product-f7e07591-2598-4615-82c2-34f6ad248e50,Eloise,1,5.09,80.95,COMPLETED
+order-9690d5a3-ca4c-4bff-84f2-4c0bed15d015,2020/11/22,Denmark,Copenhagen,55.6786,12.5635,Stilettos,product-fa4a41fc-4a31-44b5-953f-8e2a45b43673,Cecile,7,4.29,78.56,COMPLETED
+order-a7b29299-c15c-483d-b0cc-6bcaba352b2d,2020/11/3,Denmark,Copenhagen,55.6786,12.5635,Platforms,product-b7c06d0a-977d-497b-ae3e-95b58985cafd,Amélie,9,2.43,40,COMPLETED
+order-0a3c5406-bb50-4d55-b3aa-970983328861,2020/11/18,Denmark,Copenhagen,55.6786,12.5635,Stilettos,product-fa4a41fc-4a31-44b5-953f-8e2a45b43673,Cecile,9,7.03,78.56,COMPLETED
+order-f0ba6486-ca04-4184-98b8-3e2ef8f2b264,2020/11/12,Denmark,Copenhagen,55.6786,12.5635,Brogues,product-a19d1434-d5f2-4a2a-9fe0-7d70f63e391e,Denis,9,4.04,58.95,COMPLETED
+order-68b41bfc-ab5f-461f-bbfd-1b4576e79fc2,2020/11/20,Denmark,Copenhagen,55.6786,12.5635,Platforms,product-98f22154-ee97-4ef8-be84-7283cec0ebad,Bridgette,9,3.75,39.95,COMPLETED
+order-d8690714-c091-4306-bd05-a128ee11536c,2020/11/10,Denmark,Copenhagen,55.6786,12.5635,Flats,product-0a97c64c-582b-41a9-b367-2a4e081cf3d5,Estelle,2,0.85,45.61,COMPLETED
+order-897bfa40-a732-4aa3-b0f0-1b620fac2879,2020/11/21,Denmark,Copenhagen,55.6786,12.5635,Platforms,product-642f72ba-c5d6-4126-be0f-a22fe4e9fbb6,Bella,7,3.28,46.93,COMPLETED
+order-a4e07f12-db55-4f7c-99eb-8247ff67f162,2020/11/9,Denmark,Copenhagen,55.6786,12.5635,Platforms,product-642f72ba-c5d6-4126-be0f-a22fe4e9fbb6,Bella,2,3.81,46.93,COMPLETED
+order-afb0c417-e992-405a-98ae-93a0e9d7e503,2020/11/1,Denmark,Copenhagen,55.6786,12.5635,Flats,product-9f6a916a-271c-4d78-9e5f-f802bbcf6548,Adele,1,2.68,35.9,COMPLETED
+order-2b36d310-5940-4747-a7e3-13a7ce82d6ab,2020/11/6,Denmark,Copenhagen,55.6786,12.5635,Brogues,product-124ef52a-c7c3-48af-b315-33a14b2f6e1d,François,10,2.05,41.45,COMPLETED
+order-e7ca50ae-6519-47f2-aeaf-de295bdf08a0,2021/2/7,United Kingdom,London,51.5072,-0.1275,Brogues,product-a19d1434-d5f2-4a2a-9fe0-7d70f63e391e,Denis,9,0.57,58.95,COMPLETED
+order-7ea10353-a52e-493a-b581-94db323127b8,2021/2/7,United Kingdom,London,51.5072,-0.1275,Brogues,product-20700833-fc84-4340-9a59-669fe6acc94b,Antoine,4,2.5,45.95,COMPLETED
+order-1177a752-30b7-4e1e-9108-23200602a107,2021/2/13,United Kingdom,London,51.5072,-0.1275,Stilettos,product-7bef3e02-033c-4259-93da-a25f4f7169be,Claudette,2,3.51,102.95,COMPLETED
+order-cebef844-9943-49a3-a7e7-ccf6a92d8bd6,2021/2/22,United Kingdom,London,51.5072,-0.1275,Platforms,product-98f22154-ee97-4ef8-be84-7283cec0ebad,Bridgette,3,2.66,39.95,COMPLETED
+order-924085a6-fdb6-4d62-b6ad-5cb8456638c8,2021/2/9,United Kingdom,London,51.5072,-0.1275,Stilettos,product-7bef3e02-033c-4259-93da-a25f4f7169be,Claudette,2,4.05,102.95,COMPLETED
+order-9fc8f808-8c6f-4b2f-9ae0-1796047dab1f,2021/2/6,United Kingdom,London,51.5072,-0.1275,Stilettos,product-f7e07591-2598-4615-82c2-34f6ad248e50,Eloise,8,1.71,80.95,COMPLETED
+order-dcf86dcb-e76d-453c-bf1f-39d93c5c7174,2021/2/3,United Kingdom,London,51.5072,-0.1275,Brogues,product-124ef52a-c7c3-48af-b315-33a14b2f6e1d,François,9,3.71,41.45,COMPLETED
+order-082d3b4f-2954-4b80-9eff-d66c4882f2fc,2021/2/11,United Kingdom,London,51.5072,-0.1275,Flats,product-0a97c64c-582b-41a9-b367-2a4e081cf3d5,Estelle,8,4.32,45.61,COMPLETED
+order-8467938f-26f8-45b0-a82d-ada4af60bdfe,2021/2/2,United Kingdom,London,51.5072,-0.1275,Platforms,product-b7c06d0a-977d-497b-ae3e-95b58985cafd,Amélie,5,1.67,40,COMPLETED
+order-76141251-9c5c-46c6-a9f2-cb8f116b9b6f,2021/2/28,United Kingdom,London,51.5072,-0.1275,Flats,product-f709c12a-ffe5-48b1-a3d2-f247acf8e176,Danielle,3,1.54,36.46,COMPLETED
+order-94bb43a7-2a77-4e31-abc2-c47840aa7b34,2021/2/11,United Kingdom,London,51.5072,-0.1275,Brogues,product-20700833-fc84-4340-9a59-669fe6acc94b,Antoine,4,0.09,45.95,COMPLETED
+order-8c3b0316-792a-489a-9157-fde8a4015326,2021/2/2,United Kingdom,London,51.5072,-0.1275,Flats,product-0a97c64c-582b-41a9-b367-2a4e081cf3d5,Estelle,9,3.83,45.61,COMPLETED
+order-9a755dc7-4297-41bb-b3e8-c950d109194b,2021/2/20,United Kingdom,London,51.5072,-0.1275,Platforms,product-b7c06d0a-977d-497b-ae3e-95b58985cafd,Amélie,10,3.61,40,COMPLETED
+order-689a3b09-8b25-48bd-80e9-4633c8d1f873,2021/2/16,United Kingdom,London,51.5072,-0.1275,Stilettos,product-f7e07591-2598-4615-82c2-34f6ad248e50,Eloise,10,7.92,80.95,COMPLETED
+order-03d1a346-cdde-48fd-baf5-9d1a47cd0214,2021/2/13,United Kingdom,London,51.5072,-0.1275,Platforms,product-b7c06d0a-977d-497b-ae3e-95b58985cafd,Amélie,5,0.49,40,COMPLETED
+order-6f15b87c-76c8-4a49-8259-7a2d729c08b3,2021/2/19,United Kingdom,London,51.5072,-0.1275,Platforms,product-642f72ba-c5d6-4126-be0f-a22fe4e9fbb6,Bella,9,3.4,46.93,COMPLETED
+order-6ae46e7f-360d-4506-b5de-c44b3c658b08,2021/2/27,United Kingdom,London,51.5072,-0.1275,Flats,product-f709c12a-ffe5-48b1-a3d2-f247acf8e176,Danielle,1,2.44,36.46,COMPLETED
+order-3741bdeb-8b72-4ba9-9083-77489009821b,2021/2/23,United Kingdom,London,51.5072,-0.1275,Platforms,product-98f22154-ee97-4ef8-be84-7283cec0ebad,Bridgette,9,3.34,39.95,COMPLETED
+order-0ba49c77-8fa1-4bda-9c94-357927465533,2021/2/14,United Kingdom,London,51.5072,-0.1275,Flats,product-0a97c64c-582b-41a9-b367-2a4e081cf3d5,Estelle,7,3.54,45.61,COMPLETED
+order-35a45d2e-8fa9-4772-8e40-9ea89d22b269,2021/2/4,United Kingdom,London,51.5072,-0.1275,Brogues,product-a19d1434-d5f2-4a2a-9fe0-7d70f63e391e,Denis,4,0.34,58.95,COMPLETED
+order-f73ef41d-3188-438b-8072-bc44d59c4129,2021/2/10,United Kingdom,London,51.5072,-0.1275,Brogues,product-20700833-fc84-4340-9a59-669fe6acc94b,Antoine,9,0.38,45.95,COMPLETED
+order-de0e7a2a-31c7-455e-900c-720e47c0e0b6,2021/2/9,United Kingdom,London,51.5072,-0.1275,Brogues,product-20700833-fc84-4340-9a59-669fe6acc94b,Antoine,3,1.55,45.95,COMPLETED
+order-6ca2af36-f059-45ac-aba0-943372b587f0,2020/2/11,United Kingdom,Liverpool,53.4,-2.9833,Brogues,product-124ef52a-c7c3-48af-b315-33a14b2f6e1d,François,4,1.46,41.45,COMPLETED
+order-4c68e818-8dee-4cdb-8aad-2464c25983e4,2020/3/19,United Kingdom,Liverpool,53.4,-2.9833,Stilettos,product-f7e07591-2598-4615-82c2-34f6ad248e50,Eloise,6,1.53,80.95,COMPLETED
+order-ffb50bff-5266-4949-aabe-e59320bac484,2020/4/8,United Kingdom,Liverpool,53.4,-2.9833,Flats,product-f709c12a-ffe5-48b1-a3d2-f247acf8e176,Danielle,2,1.29,36.46,COMPLETED
+order-8e30e10c-15d7-448c-a912-43d55adbb3b6,2020/5/17,United Kingdom,Liverpool,53.4,-2.9833,Flats,product-f709c12a-ffe5-48b1-a3d2-f247acf8e176,Danielle,9,0.42,36.46,COMPLETED
+order-f7490421-1734-407b-8404-affbeeb16ab4,2019/2/10,United States,New York,40.6943,-73.9249,Platforms,product-642f72ba-c5d6-4126-be0f-a22fe4e9fbb6,Bella,7,0.44,46.93,COMPLETED
+order-2c07272f-1dfb-4ff3-93df-7e49c24711d3,2019/3/17,United States,New York,40.6943,-73.9249,Stilettos,product-f7e07591-2598-4615-82c2-34f6ad248e50,Eloise,4,0.32,80.95,COMPLETED
+order-b4672362-57f3-469c-8563-750b1ae0735f,2019/4/27,United States,New York,40.6943,-73.9249,Brogues,product-20700833-fc84-4340-9a59-669fe6acc94b,Antoine,8,0.96,45.95,COMPLETED
+order-c5f6f3c8-635c-4a94-b407-f5ceec0eb5bf,2019/4/23,United States,New York,40.6943,-73.9249,Brogues,product-a19d1434-d5f2-4a2a-9fe0-7d70f63e391e,Denis,10,3.37,58.95,COMPLETED
+order-b8f5f03b-cf93-4fcd-b031-7c3d0118bdf5,2019/5/26,United States,New York,40.6943,-73.9249,Stilettos,product-f7e07591-2598-4615-82c2-34f6ad248e50,Eloise,5,1.64,80.95,COMPLETED
+order-955b153c-9d58-4ec6-85ab-a473c42a177c,2019/5/19,United States,New York,40.6943,-73.9249,Brogues,product-a19d1434-d5f2-4a2a-9fe0-7d70f63e391e,Denis,3,2.85,58.95,COMPLETED
+order-de06d59a-4b3a-47cb-82ab-fd2b6945296c,2019/6/8,United States,New York,40.6943,-73.9249,Stilettos,product-f7e07591-2598-4615-82c2-34f6ad248e50,Eloise,9,0.35,80.95,COMPLETED
+order-9aa804dc-a49b-468c-9404-b8a413ee0cb2,2019/6/24,United States,New York,40.6943,-73.9249,Platforms,product-98f22154-ee97-4ef8-be84-7283cec0ebad,Bridgette,3,0.07,39.95,COMPLETED
+order-0b289d09-6b8b-477b-9c1c-11ce63b6864f,2019/7/9,United States,New York,40.6943,-73.9249,Platforms,product-642f72ba-c5d6-4126-be0f-a22fe4e9fbb6,Bella,3,4.15,46.93,COMPLETED
+order-f0a3aa4b-0970-4f74-908b-6893a465c224,2019/7/28,United States,New York,40.6943,-73.9249,Brogues,product-a19d1434-d5f2-4a2a-9fe0-7d70f63e391e,Denis,5,2.02,58.95,COMPLETED
+order-ab6b0673-21a5-4b52-bb09-d52039562159,2019/7/5,United States,New York,40.6943,-73.9249,Brogues,product-a19d1434-d5f2-4a2a-9fe0-7d70f63e391e,Denis,6,5.21,58.95,COMPLETED
+order-3fd6b2dc-8fd3-4683-a5b7-54dfecaf6326,2019/8/8,United States,New York,40.6943,-73.9249,Stilettos,product-7bef3e02-033c-4259-93da-a25f4f7169be,Claudette,7,0.42,102.95,COMPLETED
+order-4a5447b2-41ad-4ba9-b7b9-bd580d76076f,2019/8/17,United States,New York,40.6943,-73.9249,Platforms,product-b7c06d0a-977d-497b-ae3e-95b58985cafd,Amélie,1,0.44,40,COMPLETED
+order-86440a49-8562-4dfa-8076-e82a97483539,2019/8/15,United States,New York,40.6943,-73.9249,Stilettos,product-7bef3e02-033c-4259-93da-a25f4f7169be,Claudette,7,10.15,102.95,COMPLETED
+order-5cba3b31-53c9-48c1-a711-f385c00b3283,2019/8/2,United States,New York,40.6943,-73.9249,Stilettos,product-f7e07591-2598-4615-82c2-34f6ad248e50,Eloise,7,3.48,80.95,COMPLETED
+order-ea486d65-6291-4cbb-a993-fe56a1554dae,2019/9/8,United States,New York,40.6943,-73.9249,Stilettos,product-f7e07591-2598-4615-82c2-34f6ad248e50,Eloise,5,3.45,80.95,COMPLETED
+order-90813ff4-e160-42c5-990d-c0d20bef8d2d,2019/9/4,United States,New York,40.6943,-73.9249,Platforms,product-642f72ba-c5d6-4126-be0f-a22fe4e9fbb6,Bella,10,1.64,46.93,COMPLETED
+order-bf7fe6b0-a6d6-40bf-a7ea-738831d5c05e,2019/9/23,United States,New York,40.6943,-73.9249,Flats,product-0a97c64c-582b-41a9-b367-2a4e081cf3d5,Estelle,3,1.15,45.61,COMPLETED
+order-ecd28fcc-0a4a-4b20-b321-dca5d92b4b1c,2019/9/1,United States,New York,40.6943,-73.9249,Brogues,product-20700833-fc84-4340-9a59-669fe6acc94b,Antoine,4,2.34,45.95,COMPLETED
+order-cb412d8a-50a2-4fcd-b75d-3b8a3d0537a6,2019/9/8,United States,New York,40.6943,-73.9249,Platforms,product-642f72ba-c5d6-4126-be0f-a22fe4e9fbb6,Bella,8,2.97,46.93,COMPLETED
+order-37d52a6e-c49c-4cdf-afa0-87c24711b8b3,2019/10/2,United States,New York,40.6943,-73.9249,Flats,product-f709c12a-ffe5-48b1-a3d2-f247acf8e176,Danielle,4,0.84,36.46,COMPLETED
+order-55fd1dcf-bf4e-439d-b981-2bdf2723e537,2019/10/8,United States,New York,40.6943,-73.9249,Flats,product-9f6a916a-271c-4d78-9e5f-f802bbcf6548,Adele,3,1.68,35.9,COMPLETED
+order-52167fa1-6305-420e-b38d-285565e1a047,2019/10/16,United States,New York,40.6943,-73.9249,Stilettos,product-7bef3e02-033c-4259-93da-a25f4f7169be,Claudette,2,2.45,102.95,COMPLETED
+order-06959f49-4220-444c-8b0e-7b6fb7696707,2019/10/18,United States,New York,40.6943,-73.9249,Platforms,product-98f22154-ee97-4ef8-be84-7283cec0ebad,Bridgette,4,2.47,39.95,COMPLETED
+order-cabd062c-9536-48dd-81bf-e09f0a08bb3c,2019/10/27,United States,New York,40.6943,-73.9249,Brogues,product-20700833-fc84-4340-9a59-669fe6acc94b,Antoine,4,0.82,45.95,COMPLETED
+order-6c5b08c7-cff3-476c-84de-38cf41057c3d,2019/10/8,United States,New York,40.6943,-73.9249,Brogues,product-124ef52a-c7c3-48af-b315-33a14b2f6e1d,François,10,1.43,41.45,COMPLETED
+order-6fed10dc-c017-46b6-981f-8d744c971034,2019/11/2,United States,New York,40.6943,-73.9249,Flats,product-9f6a916a-271c-4d78-9e5f-f802bbcf6548,Adele,2,0.07,35.9,COMPLETED
+order-8f428adf-f4d9-4ca5-9863-9b773e9f1841,2019/11/10,United States,New York,40.6943,-73.9249,Brogues,product-20700833-fc84-4340-9a59-669fe6acc94b,Antoine,5,3.18,45.95,COMPLETED
+order-90079bf7-c8ea-4376-8725-f6b1c49ef478,2019/11/11,United States,New York,40.6943,-73.9249,Platforms,product-b7c06d0a-977d-497b-ae3e-95b58985cafd,Amélie,3,3.02,40,COMPLETED
+order-f50a991a-ed20-47c1-90a3-8f062fc9ae1b,2019/11/11,United States,New York,40.6943,-73.9249,Stilettos,product-7bef3e02-033c-4259-93da-a25f4f7169be,Claudette,6,6.22,102.95,COMPLETED
+order-9a1c7c5a-2243-4b89-808f-8590be88fae3,2019/11/7,United States,New York,40.6943,-73.9249,Platforms,product-b7c06d0a-977d-497b-ae3e-95b58985cafd,Amélie,9,2.13,40,COMPLETED
+order-6befdef0-4ffd-4240-ba71-b76be550c053,2019/11/16,United States,New York,40.6943,-73.9249,Stilettos,product-f7e07591-2598-4615-82c2-34f6ad248e50,Eloise,7,1.95,80.95,COMPLETED
+order-6d6d54d2-0cb5-4183-b92f-f86b44dff592,2019/11/11,United States,New York,40.6943,-73.9249,Brogues,product-20700833-fc84-4340-9a59-669fe6acc94b,Antoine,5,0.86,45.95,COMPLETED
+order-dc1cde2d-0ea5-4def-a345-5182a21e0bf1,2019/12/6,United States,New York,40.6943,-73.9249,Brogues,product-124ef52a-c7c3-48af-b315-33a14b2f6e1d,François,3,3.21,41.45,COMPLETED
+order-3e45cc2e-63d1-407c-8855-117067adc688,2019/12/21,United States,New York,40.6943,-73.9249,Stilettos,product-f7e07591-2598-4615-82c2-34f6ad248e50,Eloise,8,1.71,80.95,COMPLETED
+order-e1c21a99-c693-4cce-ac69-89c9318b74c0,2019/12/2,United States,New York,40.6943,-73.9249,Brogues,product-20700833-fc84-4340-9a59-669fe6acc94b,Antoine,6,0.09,45.95,COMPLETED
+order-175bb619-baef-4007-84f8-a8c630957348,2019/12/7,United States,New York,40.6943,-73.9249,Brogues,product-a19d1434-d5f2-4a2a-9fe0-7d70f63e391e,Denis,3,2.99,58.95,COMPLETED
+order-4c9edab0-72be-41e5-bb0e-1522d03d2187,2019/12/22,United States,New York,40.6943,-73.9249,Brogues,product-124ef52a-c7c3-48af-b315-33a14b2f6e1d,François,7,0.4,41.45,COMPLETED
+order-389de292-e3f2-448a-a551-6b8fe4ec4dfd,2019/12/8,United States,New York,40.6943,-73.9249,Flats,product-0a97c64c-582b-41a9-b367-2a4e081cf3d5,Estelle,7,2.98,45.61,COMPLETED
+order-afd9ee49-f083-412e-bd84-fd4ac26c7a7a,2019/12/1,United States,New York,40.6943,-73.9249,Brogues,product-20700833-fc84-4340-9a59-669fe6acc94b,Antoine,3,4.57,45.95,COMPLETED
+order-824b2987-04de-4b5e-a097-1c5737d86457,2019/12/14,United States,New York,40.6943,-73.9249,Stilettos,product-fa4a41fc-4a31-44b5-953f-8e2a45b43673,Cecile,3,1.94,78.56,COMPLETED
+order-654a747c-e5a3-44ba-9206-dd2f3b59f68e,2020/1/14,United States,New York,40.6943,-73.9249,Flats,product-9f6a916a-271c-4d78-9e5f-f802bbcf6548,Adele,3,2.68,35.9,COMPLETED
+order-41f17b6c-c2bd-46fd-914f-6933939b9767,2020/1/11,United States,New York,40.6943,-73.9249,Brogues,product-124ef52a-c7c3-48af-b315-33a14b2f6e1d,François,9,1.3,41.45,COMPLETED
+order-3b994b8c-47e4-4748-9dcd-48404906fbce,2020/1/26,United States,New York,40.6943,-73.9249,Platforms,product-98f22154-ee97-4ef8-be84-7283cec0ebad,Bridgette,5,2.88,39.95,COMPLETED
+order-bd691b66-1c56-43ef-9f74-d9fc0b442047,2020/1/7,United States,New York,40.6943,-73.9249,Platforms,product-b7c06d0a-977d-497b-ae3e-95b58985cafd,Amélie,5,1.27,40,COMPLETED
+order-d23db5ea-94f8-49f1-81ed-c7b891743d10,2020/1/2,United States,New York,40.6943,-73.9249,Platforms,product-b7c06d0a-977d-497b-ae3e-95b58985cafd,Amélie,8,1.26,40,COMPLETED
+order-0320c249-8c62-4018-b23b-31e2a46858c4,2020/1/22,United States,New York,40.6943,-73.9249,Brogues,product-20700833-fc84-4340-9a59-669fe6acc94b,Antoine,7,0.7,45.95,COMPLETED
+order-631c2b32-1765-4659-b845-3453f1bf6ae0,2020/1/28,United States,New York,40.6943,-73.9249,Flats,product-f709c12a-ffe5-48b1-a3d2-f247acf8e176,Danielle,6,1.76,36.46,COMPLETED
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
